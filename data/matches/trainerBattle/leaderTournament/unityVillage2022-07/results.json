@@ -1,0 +1,40 @@
+{
+    "trainers": {
+        "Rise Emit": 2,
+        "Maggie": 3,
+        "Anton": 4,
+        "Jovin": 5,
+        "Hissnclinkanck": 6
+    },
+    "matches": [
+        {
+            "trainers": [2,3],
+            "results": [1,2]
+        },
+        {
+            "trainers": [4,5],
+            "results": [2,1]
+        },
+        {
+            "trainers": [2,6],
+            "results": [1,2]
+        },
+        {
+            "trainers": [2,4],
+            "results": [1,2]
+        },
+        {
+            "trainers": [4,6],
+            "results": [1,2]
+        },
+        {
+            "trainers": [2,5],
+            "results": [2,1]
+        },
+        {
+            "trainers": [5,6],
+            "results": [1,2]
+
+        }
+    ]
+}

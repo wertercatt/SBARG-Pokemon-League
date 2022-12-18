@@ -1,0 +1,44 @@
+{
+    "0": {
+        "mu": 25,
+        "name": "Nick Card",
+        "ordinal": 0.0,
+        "sigma": 8.333333333333334
+    },
+    "1": {
+        "mu": 25,
+        "name": "HAZEL",
+        "ordinal": 0.0,
+        "sigma": 8.333333333333334
+    },
+    "2": {
+        "mu": 25,
+        "name": "Rise Emit",
+        "ordinal": 0.0,
+        "sigma": 8.333333333333334
+    },
+    "3": {
+        "mu": 25,
+        "name": "Maggie",
+        "ordinal": 0.0,
+        "sigma": 8.333333333333334
+    },
+    "4": {
+        "mu": 25,
+        "name": "Anton",
+        "ordinal": 0.0,
+        "sigma": 8.333333333333334
+    },
+    "5": {
+        "mu": 25,
+        "name": "Jovin",
+        "ordinal": 0.0,
+        "sigma": 8.333333333333334
+    },
+    "6": {
+        "mu": 25,
+        "name": "Hissnclinkanck",
+        "ordinal": 0.0,
+        "sigma": 8.333333333333334
+    }
+}

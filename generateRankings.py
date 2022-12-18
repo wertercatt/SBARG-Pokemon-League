@@ -1,6 +1,7 @@
 from openskill import Rating, rate, ordinal
 from openskill.models import BradleyTerryFull
 import json
+import sys
 
 trainerFile = open("data/trainers.json", "r", encoding="utf-8")
 trainers = json.load(trainerFile)
@@ -8,7 +9,7 @@ trainerFile.close
 trainerFile = open("data/trainers.json", "w", encoding="utf-8")
 
 
-matchesFile = open("data/matches/trainerBattle/leaderTournament/unityVillage2022-07/results.json", "r", encoding="utf-8")
+matchesFile = open(sys.argv[1], "r", encoding="utf-8")
 matches = json.load(matchesFile)
 
 for match in matches["matches"]:

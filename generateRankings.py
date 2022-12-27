@@ -7,6 +7,7 @@ trainerFile = open("data/trainers.json", "r", encoding="utf-8")
 trainers = json.load(trainerFile)
 trainerFile.close
 trainerFile = open("data/trainers.json", "w", encoding="utf-8")
+json.dump(trainers, trainerFile, sort_keys=True, indent=4)
 
 
 matchesFile = open(sys.argv[1], "r", encoding="utf-8")

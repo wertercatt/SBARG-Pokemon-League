@@ -76,5 +76,17 @@
         "name": "Remote Soulbot",
         "ordinal": 3.765501947016432,
         "sigma": 8.057716958804656
+    },
+    "13": {
+        "mu": 25,
+        "name": "Shellderspire Isle Shellder",
+        "ordinal": 0.0,
+        "sigma": 8.333333333333334
+    },
+    "14": {
+        "mu": 25,
+        "name": "Samm",
+        "ordinal": 0.0,
+        "sigma": 8.333333333333334
     }
 }
